@@ -15,7 +15,7 @@
   
 - 🌱 I’m currently learning **HTML, CSS, JavaScript,Node.js, Express.js, Mangodb**
 
-- 💬 Ask me about **java, HTML, CSS**
+- 💬 Ask me about **javaScript, HTML, CSS**
   
 - 👨‍💻 All of my projects are available at [https://github.com/rajan9430](https://github.com/rajan9430)
   
