@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/hellotiwari94" target="blank"><img src="https://img.shields.io/twitter/follow/hellotiwari94?logo=twitter&style=for-the-badge" alt="hellotiwari94" /></a> </p>
 
-- 🏡 I’m a Student, Manipal University & Geekster student.
+- 🏡 I’m a Student, Manipal University & Red & White Skill Education.
   
 - 🌱 I’m currently learning **HTML, CSS, JavaScript,Node.js, Express.js, Mangodb**
 
