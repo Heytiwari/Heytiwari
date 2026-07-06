@@ -19,7 +19,7 @@
   
 - 👨‍💻 All of my projects are available at [https://github.com/rajan9430](https://github.com/rajan9430)
   
-- 📫 How to reach me **hellotiwari94@gmail.com** **https://www.linkedin.com/in/rajan-kumar-tiwari-740644349?utm_source=share_via&utm_content=profile&utm_medium=member_android**
+- 📫 How to reach me **hellotiwari94@gmail.com** **https://www.linkedin.com/feed/**
 
 - 😄 Pronouns : He/Him
    
