@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **javaScript, HTML, CSS**
   
-- 👨‍💻 All of my projects are available at [https://github.com/rajan9430](https://github.com/Heytiwari)
+- 👨‍💻 All of my projects are available at [https://github.com/Heytiwari](https://github.com/Heytiwari)
   
 - 📫 How to reach me **hellotiwari94@gmail.com** **https://www.linkedin.com/in/rajan-kumar-tiwari-740644349/?trk=public-profile-join-page**
 
