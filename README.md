@@ -27,12 +27,12 @@
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/hellotiwari94" target="_blank">
+<a href="https://x.com/hellotiwari94" target="blank">
   <img align="center"
-       src="https://cdn.simpleicons.org/x"
-       alt="X"
-       height="25"
-       width="25" />
+    src="https://img.icons8.com/color/48/twitter--v1.png"
+    alt="Twitter"
+    height="30"
+    width="40" />
 </a>
 <a href="https://www.linkedin.com/in/rajan-kumar-tiwari-740644349/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajan kumar tiwari" height="30" width="40" /></a>
 <a href="https://instagram.com/hearts_hacker420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hearts_hacker420" height="30" width="40" /></a>
