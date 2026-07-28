@@ -29,7 +29,7 @@
 <p align="left">
 <a href="https://x.com/hellotiwari94" target="_blank">
   <img align="center"
-       src="https://cdn.simpleicons.org/x/white"
+       src="https://cdn.simpleicons.org/x"
        alt="X"
        height="25"
        width="25" />
