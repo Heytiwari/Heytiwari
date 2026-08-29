@@ -1,52 +1,143 @@
-<img src="https://github.com/Heytiwari/Heytiwari/blob/main/Templates%20%26%20Apps.gif" alt="logo" width="100%" height="300">
+<div align="center">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Rajan+Kumar+Tiwari!;" />
-</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<img src="https://github.com/Heytiwari/Heytiwari/blob/main/Templates%20%26%20Apps.gif" width="100%" height="300"/>
 
-<img align="right" alt="coding" width="300" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+# 👋 Hi There! I'm Rajan Kumar Tiwari
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Heytiwari&label=Profile%20views&color=0e75b6&style=flat" alt="Heytiwari" /> </p>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Frontend+Developer+💻;Aspiring+Full+Stack+Developer+🚀;HTML+%7C+CSS+%7C+JavaScript;Always+Learning+New+Things+🔥" />
 
-<p align="left"> <a href="https://twitter.com/hellotiwari94" target="blank"><img src="https://img.shields.io/twitter/follow/hellotiwari94?logo=twitter&style=for-the-badge" alt="hellotiwari94" /></a> </p>
+### 💻 Frontend Developer | 🚀 Aspiring Full Stack Developer
 
-- 🏡 I’m a Student, Manipal University & Red & White Skill Education.
-  
-- 🌱 I’m currently learning **HTML, CSS, JavaScript,Node.js, Express.js, Mangodb**
+<img src="https://komarev.com/ghpvc/?username=Heytiwari&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-- 💬 Ask me about **javaScript, HTML, CSS**
-  
-- 👨‍💻 All of my projects are available at [https://github.com/Heytiwari](https://github.com/Heytiwari)
-  
-- 📫 How to reach me **hellotiwari94@gmail.com** **https://www.linkedin.com/in/rajan-kumar-tiwari-740644349/?trk=public-profile-join-page**
+</div>
 
-- 😄 Pronouns : He/Him
-   
-- 📄 Know about my experiences, check my LinkedIn.
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/hellotiwari94" target="blank">
-  <img align="center"
-    src="https://img.icons8.com/color/48/twitter--v1.png"
-    alt="Twitter"
-    height="30"
-    width="40" />
+---
+
+## 🧑‍💻 About Me
+
+<img align="right" width="350" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+
+* 🎓 Student at **Manipal University**
+* 📚 Currently learning at **Red & White Multimedia Education**
+* 💻 Passionate about **Frontend Development**
+* 🌱 Currently learning **JavaScript, Node.js, Express.js & MongoDB**
+* 🔨 Building responsive and user-friendly websites
+* 🚀 Working towards becoming a **Full Stack Developer**
+* 💬 Ask me about **HTML, CSS & JavaScript**
+* 📂 Check out my projects on **GitHub**
+* ⚡ Fun fact: **I never give up!**
+
+<br clear="right"/>
+
+---
+
+## 🚀 My Tech Stack
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Heytiwari&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heytiwari&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Heytiwari&theme=tokyonight&hide_border=true&border_radius=15" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Heytiwari&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+
+</div>
+
+---
+
+## 💻 Featured Projects
+
+| 🚀 Project           | 📝 Description                      |
+| -------------------- | ----------------------------------- |
+| 🎬 Netflix Clone     | Netflix-inspired responsive website |
+| 🛍️ Nykaa Clone      | E-commerce UI clone                 |
+| ♟️ Chessboard        | HTML & CSS based chessboard         |
+| 🎵 Multimedia Player | HTML5 multimedia project            |
+| 🪙 CryptoM5          | Crypto landing page                 |
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Heytiwari&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Heytiwari">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/rajan-kumar-tiwari-740644349/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajan kumar tiwari" height="30" width="40" /></a>
-<a href="https://instagram.com/hearts_hacker420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hearts_hacker420" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<a href="https://www.linkedin.com/in/rajan-kumar-tiwari-740644349/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<p align="left">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Heytiwari&show_icons=true&theme=tokyonight" height="170"/> &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Heytiwari&layout=compact&theme=tokyonight" height="170" style="align="right"/>
-</p>
+<a href="https://x.com/hellotiwari94">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Heytiwari&" alt="Heytiwari" /></p>
+<a href="mailto:hellotiwari94@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<!-- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> -->
+</div>
 
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+### 🚀 Believe in Yourself & Never Give Up!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077ff,100:00c6ff&height=120&section=footer"/>
+
+</div>
