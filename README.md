@@ -32,7 +32,7 @@
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap)](https://skillicons.dev)
 
 <p align="left">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Heytiwari&show_icons=true&theme=tokyonight" height="170"/> &nbsp; &nbsp; &nbsp; &nbsp;
