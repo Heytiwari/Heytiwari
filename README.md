@@ -32,7 +32,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap)](https://skillicons.dev)
 
+<div align="center">
+  <img src="https://github.com/Heytiwari/Heytiwari/blob/main/grid-snake.svg" alt="snake">
+</div>
 
+<br>
 <table align="center">
   <tr>
     <td width="50%" align="center">
@@ -42,19 +46,17 @@
       <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Heytiwari&layout=compact&theme=tokyonight" width="100%">
       <br><br>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Heytiwari&theme=dark&hide_border=false" width="100%">
-      <br><br>     
+      <br>     
     </td>
     <!-- RIGHT SIDE - 1 CARD -->
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Heytiwari&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" width="100%">
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Heytiwari&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&hide=Hack,Stylus,SCSS,Less" width="100%">
     </td>
   </tr>
 </table>
 
 
-<div align="center">
-  <img src="https://github.com/Heytiwari/Heytiwari/blob/main/grid-snake.svg" alt="snake">
-</div>
+
 
 💭 Developer Mindset
 
