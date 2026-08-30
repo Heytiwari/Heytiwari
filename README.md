@@ -16,12 +16,10 @@
 - 🌱 I’m currently learning **HTML, CSS, JavaScript,Node.js, Express.js, Mangodb**
 
 - 💬 Ask me about **javaScript, HTML, CSS**
-  
-- 👨‍💻 All of my projects are available at [https://github.com/Heytiwari](https://github.com/Heytiwari)
-  
-- 📫 How to reach me **hellotiwari94@gmail.com** **https://www.linkedin.com/in/rajan-kumar-tiwari-740644349/?trk=public-profile-join-page**
 
-- 😄 Pronouns : He/Him
+- 👨‍💻 Check out my projects on GitHub
+
+- 📫 Reach me at hellotiwari94@gmail.com
    
 - 📄 Know about my experiences, check my LinkedIn.
   
@@ -39,7 +37,7 @@
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Heytiwari&layout=compact&theme=tokyonight" height="170" style="align="right"/>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Heytiwari&" alt="Heytiwari" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Heytiwari&" alt="Heytiwari" /></p>
 
 <!-- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> -->
 
