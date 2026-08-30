@@ -39,6 +39,11 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Heytiwari&" alt="Heytiwari" /></p>
 
+<!--- snake -->
+<div align="center">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake">
+</div>
+
 💭 Developer Mindset
 
 "Believe in Yourself & Never Give Up."
