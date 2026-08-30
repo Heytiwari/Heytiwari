@@ -32,14 +32,26 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap)](https://skillicons.dev)
 
-<p align="left">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Heytiwari&show_icons=true&theme=tokyonight" height="170"/> &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Heytiwari&layout=compact&theme=tokyonight" height="170" style="align="right"/>
-</p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Heytiwari&" alt="Heytiwari" /></p>
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Heytiwari&show_icons=true&theme=tokyonight" width="100%" />
+      <!-- <img src="https://github-readme-stats.vercel.app/api?username=Heytiwari&theme=dark&show_icons=true&count_private=true" width="100%"> -->
+      <br><br>
+      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Heytiwari&layout=compact&theme=tokyonight" width="100%">
+      <br><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Heytiwari&theme=dark&hide_border=false" width="100%">
+      <br><br>     
+    </td>
+    <!-- RIGHT SIDE - 1 CARD -->
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Heytiwari&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" width="100%">
+    </td>
+  </tr>
+</table>
 
-<!--- snake -->
+
 <div align="center">
   <img src="https://github.com/Heytiwari/Heytiwari/blob/main/grid-snake.svg" alt="snake">
 </div>
