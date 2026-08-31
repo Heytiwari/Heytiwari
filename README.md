@@ -43,8 +43,8 @@
       <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Heytiwari&show_icons=true&theme=tokyonight" width="100%" />
       <!-- <img src="https://github-readme-stats.vercel.app/api?username=Heytiwari&theme=dark&show_icons=true&count_private=true" width="100%"> -->
       <br><br>
-      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Heytiwari&layout=compact&theme=tokyonight" width="100%">
-      <br><br>
+      <!-- <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Heytiwari&layout=compact&theme=tokyonight" width="100%">
+      <br><br> -->
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Heytiwari&theme=dark&hide_border=false" width="100%">
       <br>     
     </td>
