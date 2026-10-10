@@ -31,13 +31,13 @@
 ## Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,tailwind,vscode)](https://skillicons.dev)
-
+<h2 align="left">🐍 Grid Snake Animation</h2>
 <div align="center">
   <img src="https://github.com/Heytiwari/Heytiwari/blob/main/grid-snake.svg" alt="snake">
 </div>
 
 <br>
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<h2 align="left">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 <table align="center">
   <tr>
     <td width="50%" align="center">
