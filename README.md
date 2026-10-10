@@ -30,7 +30,7 @@
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,tailwind,vscode)](https://skillicons.dev)
 
 <div align="center">
   <img src="https://github.com/Heytiwari/Heytiwari/blob/main/grid-snake.svg" alt="snake">
