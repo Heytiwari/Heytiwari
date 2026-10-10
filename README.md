@@ -37,18 +37,16 @@
 </div>
 
 <br>
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <!-- <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Heytiwari&show_icons=true&theme=tokyonight" width="100%" /> -->
-      <!-- <img src="https://github-readme-stats.vercel.app/api?username=Heytiwari&theme=dark&show_icons=true&count_private=true" width="100%"> -->
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <a href="https://github.com/Heytiwari">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=Heytiwari&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
-      <br><br>
-      <!-- <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Heytiwari&layout=compact&theme=tokyonight" width="100%">
-      <br><br> -->
-      <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Heytiwari&theme=dark&hide_border=false" width="100%"> -->
+      <br>
+       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <a href="https://github.com/Heytiwari">
           <img align="center" src="https://streak-stats.demolab.com?user=Heytiwari&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
         </a>
@@ -56,10 +54,10 @@
     </td>
     <!-- RIGHT SIDE - 1 CARD -->
     <td width="50%" align="center">
+      <h3 align="center"><strong>Tᴏᴘ Languages </strong></h3>
       <a href="https://github.com/Heytiwari">
         <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Heytiwari&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&hide_border=false&langs_count=10&hide=Hack,Stylus,SCSS,Less" width="100%">
       </a>
-      <!-- <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Heytiwari&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&hide=Hack,Stylus,SCSS,Less" width="100%"> -->
     </td>
   </tr>
 </table>
